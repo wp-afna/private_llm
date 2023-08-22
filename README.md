@@ -1,4 +1,4 @@
-# private llmm
+# private llm
 Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection!
 
 Built with [LangChain](https://github.com/hwchase17/langchain), [GPT4All](https://github.com/nomic-ai/gpt4all), [LlamaCpp](https://github.com/ggerganov/llama.cpp), [Chroma](https://www.trychroma.com/) and [SentenceTransformers](https://www.sbert.net/).
@@ -17,7 +17,7 @@ pip3 install -r requirements.txt
 
 2. Run this commands
 ```shell
-cd privateGPT
+cd private_llm
 poetry install
 poetry shell
 ```
@@ -96,7 +96,7 @@ Note: during the ingest process no data leaves your local environment. You could
 In order to ask a question, run a command like:
 
 ```shell
-python privateGPT.py
+python private_llm.py
 ```
 
 And wait for the script to require your input.
