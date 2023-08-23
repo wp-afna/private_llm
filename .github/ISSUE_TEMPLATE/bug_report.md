@@ -7,6 +7,7 @@ assignees: ''
 
 ---
 
+
 Note: if you'd like to *ask a question* or *open a discussion*, head over to the [Discussions](https://github.com/imartinez/privateGPT/discussions) section and post it there.
 
 **Describe the bug and how to reproduce it**
