@@ -7,8 +7,6 @@ assignees: ''
 
 ---
 
-Note: if you'd like to *ask a question* or *open a discussion*, head over to the [Discussions](https://github.com/imartinez/privateGPT/discussions) section and post it there.
-
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
